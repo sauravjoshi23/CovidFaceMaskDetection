@@ -15,3 +15,11 @@ Here's why:
 * Django
 * Deep Learning
 * HTML and CSS
+
+### Result
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/44198980/90917183-039d6100-e400-11ea-9293-b7031e297a0f.png)
+
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/44198980/90917439-82929980-e400-11ea-98f7-8ca051b55702.png)
+
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/44198980/90917569-c08fbd80-e400-11ea-860b-2d897cc26207.png)
